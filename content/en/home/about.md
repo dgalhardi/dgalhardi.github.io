@@ -4,7 +4,7 @@ image: "profile.gif"
 weight: 8
 ---
 
-Hi, my name is Diego Galhardi! I'm a Computer Engineer specialised in backend development and cybersecurity.
+Hi, my name is Diego Galhardi! I'm a Computer Engineer specialised in backend development, software engineering and cybersecurity.
 
 I am a flexible person, dynamic, creative, analytical, solid technical background, problem solving skills and high knowledge of the entire software development cycle.
 
