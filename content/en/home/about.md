@@ -24,13 +24,12 @@ Currently, I am studying to obtain AWS certifications.
 * Message queue systems: Apache Kafka, AWS MQ / SNS / SQS
 * Architectural patterns: BFF, Hexagonal, CQRS, Serverless
 * Cloud (Currently studying for developer associate): 
-    AWS Analytics: Open Search, Kinesis
-    AWS Application Integration: Application Integration Services
-    AWS Compute: Elastic Bean Stalk, Lambda, ECS, EKS, EC2 Autoscaling, ELB, EBS, EC2
-    AWS Database: Elastic Cache, DynamoDB, Aurora, RDS
-    AWS Developer Tools: SAM, Code Artifact, Commit, Build, Deploy, Pipeline, Code Star, Cloud9, CodeGuru, X-Ray
-    AWS Management Tools: Cloud Formation, Cloud Trail, Cloud Watch
-    AWS Networking & Content Delivery: API Gateway, Route 53, Cloud Front, VPC, EC2 Autoscaling, ELB
-    AWS Security Identity & Compliance: Resource Access Manager, Secrets Manager, KMS, Cognito, IAM
-    AWS Storage: S3, Glacier, EBS
+    - AWS Analytics: Open Search, Kinesis
+    - AWS Compute: Elastic Bean Stalk, Lambda, ECS, EKS, EC2 Autoscaling, ELB, EBS, EC2
+    - AWS Database: Elastic Cache, DynamoDB, Aurora, RDS
+    - AWS Developer Tools: SAM, Code Artifact, Commit, Build, Deploy, Pipeline, Code Star, Cloud9, CodeGuru, X-Ray
+    - AWS Management Tools: Cloud Formation, Cloud Trail, Cloud Watch
+    - AWS Networking & Content Delivery: API Gateway, Route 53, Cloud Front, VPC, EC2 Autoscaling, ELB
+    - AWS Security Identity & Compliance: Resource Access Manager, Secrets Manager, KMS, Cognito, IAM
+    - AWS Storage: S3, Glacier, EBS
 
