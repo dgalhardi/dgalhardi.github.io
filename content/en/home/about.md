@@ -15,10 +15,13 @@ Currently, I am studying to obtain AWS certifications.
 ### Skills
 
 * Programming Languages: Java, Python
+* Frameworks: Spring, Quarkus
 * Observability & Monitoring: Grafana, Prometheus, Dynatrace, OpenSearch
-* Security: Sonarqube, OWASP
+* Security: OWASP, Secure by design, Etical Hacking
 * Containers: Docker, Kubernetes
 * CI/CD: AWS Code Pipeline, Azure DevOps, Jenkins
 * Infra as Code: Terraform, AWS Cloud Formation
+* Message queue systems: Apache Kafka, AWS MQ / SNS / SQS
+* Architectural patterns: BFF, Hexagonal, CQRS, Serverless
 * Cloud: AWS
 
