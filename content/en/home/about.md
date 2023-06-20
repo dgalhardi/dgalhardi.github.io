@@ -19,7 +19,7 @@ Currently, I am studying to obtain AWS certifications.
 * Observability & Monitoring: Grafana, Prometheus, Dynatrace, OpenSearch
 * Security: OWASP, Secure by design, Etical Hacking
 * Containers: Docker, Kubernetes
-* CI/CD: AWS Code Pipeline, Azure DevOps, Jenkins
+* CI/CD: AWS Code Pipeline, Azure DevOps, Jenkins, GitHub Actions
 * Infra as Code: Terraform, AWS Cloud Formation
 * Message queue systems: Apache Kafka, AWS MQ / SNS / SQS
 * Architectural patterns: BFF, Hexagonal, CQRS, Serverless
