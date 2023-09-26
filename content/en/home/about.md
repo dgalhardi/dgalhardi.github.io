@@ -8,8 +8,6 @@ Hi, my name is Diego Galhardi! I'm a Computer Engineer specialised in backend de
 
 I am a flexible person, dynamic, creative, analytical, solid technical background, problem solving skills and high knowledge of the entire software development cycle.
 
-Currently, I am studying to obtain AWS certifications.
-
 [`Resume`](https://drive.google.com/file/d/abcd/view?usp=sharing) [`Currículo`](https://drive.google.com/file/d/abcd/view?usp=sharing)
 
 ### Skills
