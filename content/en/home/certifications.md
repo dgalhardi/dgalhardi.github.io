@@ -9,5 +9,7 @@ weight: 30
 
 [AWS Learning: Serverless](https://www.credly.com/badges/a4752605-13e3-4f5b-947d-6c2fb6118f82)
 
+[AWS Partner: Accreditation (Technical)](https://www.credly.com/badges/eb8bf25d-a3cb-4e9f-90d5-28d5ef0ed946)
+
 [Scrum Foundation Professional Certificate SPFC](https://www.credly.com/badges/196349e4-fca8-4794-8a37-733be04b1bb8)
 
