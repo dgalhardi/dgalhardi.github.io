@@ -11,12 +11,6 @@ I am a flexible person, dynamic, creative, analytical, solid technical backgroun
 [`Resume`](https://drive.google.com/file/d/1fU5dH0vZ_eoDVjUxNj0Jk6pLk6-A2_Yb/view?usp=drive_link) [`Curriculum`](https://drive.google.com/file/d/1fU5dH0vZ_eoDVjUxNj0Jk6pLk6-A2_Yb/view?usp=drive_link)
 
 
-
-
-
-
-
-
 ### Skills
 
 * Programming Languages: Java, Python
