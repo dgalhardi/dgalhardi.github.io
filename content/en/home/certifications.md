@@ -13,5 +13,7 @@ weight: 30
 
 [AWS Partner: Sales Accreditation (Business)](https://www.credly.com/badges/1ef18051-fee7-466a-9f89-739717153e85)
 
+[LFD121: Developing Secure Software](https://www.credly.com/badges/9d146e22-274d-4b8d-a5db-6cec0d040f52)
+
 [Scrum Foundation Professional Certificate SPFC](https://www.credly.com/badges/196349e4-fca8-4794-8a37-733be04b1bb8)
 
