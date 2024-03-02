@@ -63,7 +63,7 @@ googleAnalytics                   = "G-22PR113W7N"          # https://gohugo.io/
         icon  = "linkedin-in" # icon name without the 'fa-'
         icon_pack = "fab"
         [[params.social]]
-        url = "https://github.com/diego-galhardi"
+        url = "https://github.com/dgalhardi"
         icon = "github"
         icon_pack = "fab"
     [[params.social]]
