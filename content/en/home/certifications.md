@@ -3,7 +3,7 @@ title: "Certifications"
 weight: 30
 ---
 
-[AWS Certified Solutions Architec Associate (SAA03)](https://www.credly.com/badges/d7d1d586-f341-41cd-a9c2-3384fb46eccc)
+[AWS Certified Solutions Architect Associate (SAA03)](https://www.credly.com/badges/d7d1d586-f341-41cd-a9c2-3384fb46eccc)
 
 [AWS Certified Developer Associate (DVA02)](https://www.credly.com/badges/0350e756-3b0d-4eba-b166-e358e4362822)
 
