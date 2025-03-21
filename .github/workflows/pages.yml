@@ -28,9 +28,14 @@ jobs:
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb \
+          && hugo version
+        continue-on-error: false
       - name: Install Dart Sass Embedded
-        run: sudo snap install dart-sass-embedded
+        run: |
+          if ! command -v dart-sass-embedded &> /dev/null; then
+            sudo snap install dart-sass-embedded
+          fi
       - name: Checkout
         uses: actions/checkout@v3
         with:
@@ -40,10 +45,12 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
       - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+        run: |
+          if [[ -f package-lock.json || -f npm-shrinkwrap.json ]]; then
+            npm ci
+          fi
       - name: Build with Hugo
         env:
-          HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
           hugo \
