@@ -23,7 +23,7 @@ defaults:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-22.04  # Alterado de ubuntu-latest para versão estável
+    runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.111.3
     steps:
@@ -59,7 +59,7 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload Hugo build artifacts
-        uses: actions/upload-artifact@v2  # Alterado para v2
+        uses: actions/upload-artifact@v4
         with:
           name: hugo-site
           path: ./public
