@@ -2,6 +2,7 @@
 title: "Certifications"
 weight: 30
 ---
+[AWS Certified Cloud Practitioner AI (AIFC01)](https://www.credly.com/badges/8cb0931e-8c62-4b32-a3e4-f6005d5a8be2)
 
 [AWS Certified Solutions Architect Associate (SAA03)](https://www.credly.com/badges/d7d1d586-f341-41cd-a9c2-3384fb46eccc)
 
